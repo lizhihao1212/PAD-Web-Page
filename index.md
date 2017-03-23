@@ -6,9 +6,9 @@ Hi, Welcome to Zhihao Li's webpage. This webpage gives a brief discription of my
 I am currently an international student in UC Davis and majored in General Statsitic and Gernal Math and decided to continue my master degree in United states.
 #### Code experience
 I have taken ECS30 spring Quarter 2016, STA 141A Fall Quarter 2016 and STA 141B Winter Quarter 2017 and  I can handle R ,C and Python proficiently.
-### Research Experience
+#### Research Experience
 I enrolled into the research project with Professor George Hans Mueller, which is functinal Data Anaysis.
-### Data science interest
+#### Data science interest
 After learn STA 141B, I become interested in Data Mining and machine leanrning and I decided to continue my master degree in this area.
 Moreover, I also quite interest in Functional Data Analysis, which is the research I currently enrolled
 
