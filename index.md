@@ -17,6 +17,6 @@ Moreover, I also quite interest in Functional Data Analysis, which is the resear
 ### Project and Jupyter Notebook
 The following link is the older project I did [File](https://github.com/lizhihao1212/lizhihao1212.github.io)
 
-This following link is our STA 141B Final Project [File](http://htmlpreview.github.io/?https://github.com/lizhihao1212/Final-Project/blob/master/STA%2B141%2BB%2BProject%2BFinal%2BDraft.html) 
+This following link is our STA 141B Final Project [File](http://htmlpreview.github.io/?https://github.com/lizhihao1212/Final-Project/blob/master/STA%2B141%2BB%2BProject%2BFinal%2BDraft%20(2).html) 
 
 If you want directly to the Portflio of our Final Project, Just Click the following [link](https://github.com/lizhihao1212/Final-Project)
