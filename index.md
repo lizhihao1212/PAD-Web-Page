@@ -19,4 +19,4 @@ The following link is the older project I did [File](https://github.com/lizhihao
 
 This following link is our STA 141B Final Project [File](https://github.com/lizhihao1212/Final-Project) 
 
-If you want directly to the HTML Part of our Final Project, Just Click the following [link](http://htmlpreview.github.io/?https://github.com/lizhihao1212/Final-Project/blob/master/STA%2B141%2BB%2BProject%2BFinal%2BDraft%20(1).html)
+If you want directly to the HTML Part of our Final Project, Just Click the following [link](http://htmlpreview.github.io/?https://github.com/lizhihao1212/Final-Project/blob/master/STA%2B141%2BB%2BProject%2BFinal%2BDraft.html)
